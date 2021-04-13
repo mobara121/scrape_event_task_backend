@@ -18,7 +18,7 @@ Website link: [Scrape Event Task App](https://scrape-event-task-app.herokuapp.co
 
 Runs the app in the development mode.\
 Install Node.js --> node app.js
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.\
 Install React.js --> npm start
 Open [http://localhost:3001](http://localhost:3001) to view it in the browser.
 
